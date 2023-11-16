@@ -1,0 +1,1 @@
+A person using a suspicious device has gained access to the organization system. Evaluate this incident and provide recomendations on how to avoid it in the future.

@@ -1,0 +1,1 @@
+Read the information given in the DNS and ICMP traffic log to evaluate the potential incident and respond accordingly.

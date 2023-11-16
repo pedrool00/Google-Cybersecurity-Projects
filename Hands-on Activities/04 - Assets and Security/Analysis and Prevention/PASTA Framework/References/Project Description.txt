@@ -1,0 +1,1 @@
+Use the PASTA framework to give proper guidelines for a sneaker company that wants to create an application for online shopping in a secure way, following the necessary compliance requirements.

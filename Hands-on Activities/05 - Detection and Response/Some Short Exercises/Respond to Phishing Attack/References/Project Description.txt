@@ -1,0 +1,1 @@
+Use a Phishing Incident Response playbook to determine the appropiate steps to follow after receiving a ticket of a potential phishing attack.

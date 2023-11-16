@@ -1,0 +1,1 @@
+The password of an employee has been brute-forced. Use the traffic log recorded by tcpdump to evaluate this incident and provide recomendations to prevent it in the future.

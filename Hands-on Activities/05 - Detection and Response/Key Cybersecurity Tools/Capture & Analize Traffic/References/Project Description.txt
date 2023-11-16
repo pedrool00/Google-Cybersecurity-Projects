@@ -1,0 +1,1 @@
+In these two activities, I will use the tools tcpdump and Wireshark to capture traffic packets, and analyze the components of these packets.

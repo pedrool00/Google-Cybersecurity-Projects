@@ -1,0 +1,1 @@
+Compare two seemingly identical files using their hashes, and determine whether they are actually identical or not.

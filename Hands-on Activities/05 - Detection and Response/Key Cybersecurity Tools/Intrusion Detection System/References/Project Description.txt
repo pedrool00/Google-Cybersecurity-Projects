@@ -1,0 +1,1 @@
+We will be using the Intrusion Detection System (IDS) Suricata to set up a rule, trigger it, and see the log data produced by this tool.

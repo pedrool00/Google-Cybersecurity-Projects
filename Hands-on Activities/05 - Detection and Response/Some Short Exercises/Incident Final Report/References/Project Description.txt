@@ -1,0 +1,1 @@
+In this exercise, we will be typing a report for an incident, which includes all the necessary sections. This can also be used as a template for future incident reports.

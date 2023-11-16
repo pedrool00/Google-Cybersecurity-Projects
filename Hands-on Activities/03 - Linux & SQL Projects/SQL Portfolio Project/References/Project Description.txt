@@ -1,0 +1,1 @@
+Perform a series of SQL queries to find the information required by your organization. Make sure to document every step taken during the process.

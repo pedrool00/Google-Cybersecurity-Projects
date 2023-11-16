@@ -1,0 +1,1 @@
+Use VirusTotal to determine whether a given hash has been classified as potentially dangerous for your organization.

@@ -1,0 +1,1 @@
+Recently, a breach has ocurred in a social media site. Evaluate this incident and provide some recomendations on how to apply security hardening to prevent similar attacks.

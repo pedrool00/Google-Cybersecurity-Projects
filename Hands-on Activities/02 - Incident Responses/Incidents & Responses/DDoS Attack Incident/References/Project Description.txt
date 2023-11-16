@@ -1,0 +1,1 @@
+Investigate the results of a packet capture file through Wireshark to analyze and respond to a DDoS attack.

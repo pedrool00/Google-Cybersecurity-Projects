@@ -1,0 +1,1 @@
+Create an algorithm using Python capable of automatizing the process of updating a list of IPs whenever flagged addressed are removed from your organization.

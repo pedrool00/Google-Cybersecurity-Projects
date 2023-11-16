@@ -1,0 +1,1 @@
+Use the Linux Command Line Interface (CLI) to change several permissions of files from your organization in order to apply security best practices.

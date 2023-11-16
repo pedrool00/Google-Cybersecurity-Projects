@@ -1,0 +1,1 @@
+Use the NIST CSF to document every step taken in an incident response process.
