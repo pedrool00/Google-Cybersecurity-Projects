@@ -1,3 +1,3 @@
-# Portfolio-Projects
+# Google Cybersecurity Projects
 
-Repository that will be used to show my cybersecurity-related portfolio projects.
+Repository that contains my personal notes and hands-on exercises from the Google Cybersecurity Professional Certificate.
